@@ -5,26 +5,117 @@
  */
 
 /* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+
+/* @font-face {
+  font-family: "Oi";
+  src: url('/static/Oi.ttf') format('ttf');
+} */
+
+@font-face {
+  font-family: Oi-Regular;
+  src: url(/static/Oi.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
 }
+
+@font-face {
+  font-family: Crete Round Italic;
+  src: url(/static/CreteRound-Italic.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
+}
+
+
+/* @import url('https://fonts.googleapis.com/css?family=Oi&display=swap') */
+:root {
+  /* --ifm-font-family-monospace: "Oi"; */
+  /* --ifm-font-family-base: "Oi" */
+  /* font-family: 'Oi-Regular' */
+}
+/* :root { */
+  /* --ifm-color-primary: ##e8e4e6;
+  --ifm-color-primary-dark: #abd1c6;
+  --ifm-code-font-size: 95%;
+  --border-radius: 30px;
+  --border: 3px #001e1d solid;
+  --left-radius: 5px 30px 5px 30px;
+  --right-radius: 30px 5px 30px 5px;
+  --first-layer: hsla(0,0%,7%,.699);
+  --font-color: #abd1c6;
+  --font-secondary: #abd1c6;
+  --secondary: #abd1c6;
+  --ifm-scrollbar-thumb-background-color: transparent!important;
+  --ifm-scrollbar-track-background-color: transparent!important;
+  --ifm-toc-border-color: #fefefe83!important;
+  --ifm-navbar-link-color: #e16162;
+  --ifm-color-gray-100: #ccc8c833;
+  --ifm-menu-color: #b9b8b8cc;
+  --ifm-menu-link-sublist-icon: transparent;
+  --docusaurus-announcement-bar-height: auto;
+  --collapse-button-bg-color-dark: #2e333a;
+  --docusaurus-tag-list-border: var(--ifm-color-emphasis-300);
+  --doc-sidebar-width: 300px;
+  --doc-sidebar-hidden-width: 30px; */
+/* } */
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  /* --ifm-color-primary-darker: #ccc8c8;
+  --ifm-color-primary-darkest: #ccc8c8;
+  --ifm-color-primary-light: #ccc8c8;
+  --ifm-color-primary-lighter: #ccc8c8;
+  --ifm-color-primary-lightest: #ccc8c8; */
+}
+
+/* @font-face {
+  font-family: "Oi";
+  src: local("Oi"),
+    url("/src/css/fonts/Oi-Regular.ttf") format("opentype") tech(color-COLRv1), url("Oi-Regular.ttf")
+      format("opentype"), url("Oi-Regular.ttf") format("ttf");
+} */
+
+/* @font-face {
+  font-family: Oi;
+  font-weight: 700;
+  src: url('/css/fonts/Oi.ttf');
+}
+
+@font-face {
+  font-family: CreteRound;
+  font-weight: 700;
+  src: url('/css/fonts/CreteRound-Italic.ttf');
+} */
+
+/* @font-face {
+  font-family: 'AcrosstheRoad';
+  src: url('assets/fonts/AcrosstheRoad.ttf')  format('truetype');
+} */
+
+#__docusaurus {
+  /* font-family: 'Oi-Regular'; */
+  /* background-image: radial-gradient(hsla(0, 0%, 60%, .377) 5%, transparent 0);
+  background-size: 20px 20px;
+  background-color: #004643;
+  border: 1.5px solid #e68d5a!important;
+  border-radius: 30px 5px 30px 30px!important; */
+  /* font-family: 'CreteRound'; */
+}
+
+
+.html {
+  /* background-color: #004643; */
+  /* font-family: 'Crete Round Italic'; */
+}
+
+.h1 .h2 .h3 .h4 {
+  /* font-family: 'Oi-Regular'; */
+  /* color: #fffffe; */
+}
+
+.p {
+  /* font-family: 'Crete Round Italic'; */
+  /* color: #abd1c6; */
 }

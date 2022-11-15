@@ -53,23 +53,32 @@ const config = {
     ],
   ],
 
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        // defaultMode: 'dark',
+        disableSwitch: true,
+        // respectPrefersColorScheme: true,
+      },
       navbar: {
-        title: 'My Site',
+        title: 'AppearHuman',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
+            to: '/docs',
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
