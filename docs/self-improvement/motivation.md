@@ -10,3 +10,8 @@ wrote down every goal required to pass the ASVAB test. uck these targets onto hi
 
 
 - [Motivation](https://jamesclear.com/motivation)
+
+
+> you need to maintain your motivation to get good at that thing. (whatever you choose to learn) …be intrinsicly motivated / interested in whatever it is you’re trying to learn.
+
+Kent C Dodds
