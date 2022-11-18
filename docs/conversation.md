@@ -1,5 +1,91 @@
 # Conversation
 
+
+
+### Framing 
+
+#### Who are they?
+
+#### What do they want from me?
+
+#### What context are we in?
+
+#### How does this benefit me?
+
+
+
+### Considerations 
+
+
+#### Dont' Interupt people
+
+You may think you're adding something. You're most likely not. Your conversation partener will feel you're making this all about yourself or you're just not listening.
+
+#### Pause for a good moment before answering anything
+
+- gives you time to think more on your reply
+- makes you appear more careful with your words, therefore adding more weight to what you say
+- don't rush, better to say nothing than something silly
+
+#### Speak slowly and clearly
+
+This helps people follow what it is that you're saying 
+
+> SAY LESS + THINK MORE 
+
+
+#### Refrain from jumping to your own conclusions
+
+Don't let yourself jump around, make sure you fully understand their viewpoint 
+
+#### Let nothing trigger you
+
+Letting our emotions get into this is a bad idea.
+
+- if you do get triggered, get out of there, don't let them bring you into a state of saying things you'd prefer not to.
+- don't say emotionally charged things unless you are truly passionate
+- don't argue a point 'just because'. 
+
+## What to say
+
+### Does what I'm going to say bring value?
+Or am I just being selfish?
+
+### Clarifying questions > Statements 
+
+Choose to keep the conversation going, this isn't about proving a point, who's right or wrong. Conversation is about **sharing ideas** and **genuninely wanting to hear their perspective**.
+
+> If it doesn't end with a question, don't say it
+
+
+## When to state our own views
+
+### When are statements are okay?
+
+- if directly asked a question "what is your opinion on ___" ?
+
+even then, give your answer, ask something back in return. Maybe where they stand on the same piece?
+
+### If it starts with 'I', refrase 
+
+- "In my view"
+
+
+### Beware 
+
+- people like to hide how they really feel about our views
+- sometimes opening up fully is not a good idea
+- most people view oversharing as anxious or strange behaviour
+
+
+
+
+
+
+---
+
+
+
 ### Topics to converse about
 I think you might find it cringy for the same reason I do, it basically feels like everyone's playing a role in a drama show
 
